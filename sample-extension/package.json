@@ -1,0 +1,8 @@
+{
+  "name": "sample-extension",
+  "version": "0.0.1",
+  "main": "extension.js",
+  "engines": {
+    "vortex": "^0.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "vortex-poc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node extension-manager/index.js",
+    "pkg-build": "node build\\windows\\make-exe.js"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.0"
+  }
+}
